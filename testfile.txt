@@ -1,1 +1,2 @@
 adding into amaster textfileThis is a file from github
+Editing this file from gitub
